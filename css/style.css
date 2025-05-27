@@ -1,7 +1,8 @@
-@import "./global.css";
-@import "./header.css";
-@import "./experiencia.css";
-@import "./introducao.css";
-@import "./formacao.css";
-@import "./footer.css";
-@import url("responsive.css");
+@import "global.css";
+@import "header.css";
+@import "experiencia.css";
+@import "introducao.css";
+@import "formacao.css";
+@import "footer.css";
+@import "responsive.css";
+
